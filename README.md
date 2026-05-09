@@ -79,6 +79,12 @@ The systematic underestimation of sports betting tax revenue across all six stat
 
 ## Repository Structure
 
+- `README.md` — Project overview and findings
+- `SportsBetting.ipynb` — Full analysis notebook
+- `sports_betting_actuals_v2.xlsx` — Raw actuals data
+- `sports_betting_projections_v2.xlsx` — Original projections data
+- `images/` — Chart images embedded in this README
+
 
 ## Tools Used
 
