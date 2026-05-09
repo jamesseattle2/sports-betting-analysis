@@ -6,7 +6,7 @@ An analysis of original tax revenue projections versus actual collections across
 
 **Across all 6 states, sports betting tax revenue exceeded original projections by an average of +138.9% — meaning states collected approximately 2.4x what they originally projected.** Every single state in the analysis exceeded its projection. The variance ranged from +30.9% (Virginia) to +485% (Maryland).
 
-![Projected vs Actual Tax Revenue](projected_vs_actual_chart.png)
+![Projected vs Actual Tax Revenue](images/projected_vs_actual_chart.png)
 
 ## The Question
 
@@ -44,9 +44,9 @@ The most recent projections were the most realistic. States that legalized later
 ### 5. Tax rate dramatically affects state capture
 New York's 51% statutory rate translates to approximately 4.3 cents of tax revenue per dollar wagered — roughly 5x what New Jersey collects (0.93 cents) despite NJ having a comparable handle volume. New York alone accounts for 63.8% of combined annual tax revenue across the 6 states.
 
-![Tax Efficiency by State](tax_efficiency_chart.png)
+![Tax Efficiency by State](images/tax_efficiency_chart.png)
 
-![Variance Ranking](variance_ranking_chart.png)
+![Variance Ranking](images/variance_ranking_chart.png)
 
 ## Combined Scale (Lifetime Since Launch)
 
