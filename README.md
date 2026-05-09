@@ -78,14 +78,12 @@ Actuals were sourced from state gaming commissions and lottery agencies, cross-r
 The systematic underestimation of sports betting tax revenue across all six states suggests that **pre-launch fiscal projections likely underestimate revenue potential**, particularly when projections are made before mobile betting's adoption pattern is established in comparable markets. States considering legalization can use this finding to inform expectations, and budget cycles in legalized states should expect upside surprises in the early years post-launch.
 
 ## Repository Structure
-
 - `README.md` — Project overview and findings
 - `SportsBetting.ipynb` — Full analysis notebook
 - `sports_betting_actuals_v2.xlsx` — Raw actuals data
 - `sports_betting_projections_v2.xlsx` — Original projections data
 - `images/` — Chart images embedded in this README
-
-
+  
 ## Tools Used
 
 - **Python** (pandas, matplotlib, seaborn) for analysis and visualization
